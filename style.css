@@ -11,7 +11,7 @@
 }
 
 :root {
-  --bg-color: rgb(50, 49, 51);
+  --bg-color: rgb(0, 0, 0);
   --text-color: white;
   --main-color: rgb(253, 33, 33);
   --button-color: rgb(226, 19, 226);
